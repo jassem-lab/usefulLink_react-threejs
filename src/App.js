@@ -85,8 +85,8 @@ export default function App() {
       <div className="layer" />
       <Loading />
       <a href="https://github.com/jassem-lab" className="top-left" children="Github" />
+      <a href="https://jassemcodes.vercel.app/" className="bottom-left" children="+ Portfolio" />
       <a href="https://instagram.com/jassem__gaaloul" className="top-right" children="Instagram" />
-      <a href="https://jassemdev.herokuapp.com" className="bottom-left" children="+ Portfolio" />
     </>
   )
 }
